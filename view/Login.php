@@ -112,6 +112,6 @@
         <hr>
         <p>Copyright &copy; All rights reserved by ALIDADA</p>
     </footer>
-    <script src="/Project/JS/loginValidation.js"></script>
+    <script src="/E-Commerce/JS/loginValidation.js"></script>
 </body>
 </html>
