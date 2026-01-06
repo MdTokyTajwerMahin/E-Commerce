@@ -26,7 +26,7 @@
     <hr>
     </div>
 <img src="/E-Commerce/Image/LOGINSIGNUP.jpg" alt="signup" >
-<form action="/Project/controller/loginValidation.php"  method="POST" onsubmit="return validation()">
+<form action="/E-Commerce/controller/loginValidation.php"  method="POST" onsubmit="return validation()">
 
 
         <div class="container">

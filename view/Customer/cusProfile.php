@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Customer Profile</title>
-    <link rel="stylesheet" href="/Project/CSS/cusProfile.css">
+    <link rel="stylesheet" href="/E-Commerce/CSS/cusProfile.css">
 </head>
 <body>
 <div class="main-content">

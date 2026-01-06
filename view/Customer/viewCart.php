@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Customer Cart</title>
-    <link rel="stylesheet" href="/Project/CSS/viewCart.css">
+    <link rel="stylesheet" href="/E-Commerce/CSS/viewCart.css">
 </head>
 <body>
 <div class="main-content">
@@ -33,7 +33,7 @@
                 <table>
                     <?php foreach($cartItems as $row): ?>
                     <tr>
-                        <td><img src="/Project/Image/<?= $row['image_url'] ?>" alt="notfound" width="120" height="120"></td>
+                        <td><img src="/E-Commerce/Image/<?= $row['image_url'] ?>" alt="notfound" width="120" height="120"></td>
                         <td><?= $row['p_name'] ?></td>
                         <td>BDT <?= $row['price'] ?></td>
                         <td>
@@ -70,11 +70,11 @@
                     <p>Select one:</p>
                     <label class="payment-option">
                         <input type="radio" name="onlinePayment" value="bkash">
-                        <img src="/Project/Image/bkash.png" alt="bKash">
+                        <img src="/E-Commerce/Image/bkash.png" alt="bKash">
                     </label>
                     <label class="payment-option">
                         <input type="radio" name="onlinePayment" value="nagad">
-                        <img src="/Project/Image/nagad.png" alt="Nagad">
+                        <img src="/E-Commerce/Image/nagad.png" alt="Nagad">
                     </label>
                 </div>
 
@@ -105,11 +105,11 @@
 
 
     <?php if (isset($_SESSION['order_success'])): ?>
-        <script src="/Project/JS/success.js"></script>
+        <script src="/E-Commerce/JS/success.js"></script>
         <?php unset($_SESSION['order_success']); ?>
     <?php endif; ?>
 
-    <script src="/Project/JS/payment.js"></script>
+    <script src="/E-Commerce/JS/payment.js"></script>
 
     <footer>
         <hr>

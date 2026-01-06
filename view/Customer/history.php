@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Order History</title>
-    <link rel="stylesheet" href="/Project/CSS/viewCart.css">
+    <link rel="stylesheet" href="/E-Commerce/CSS/viewCart.css">
 </head>
 <body>
 <div class="main-content">

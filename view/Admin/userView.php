@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Users Information</title>
-    <link rel="stylesheet" href="/Project/CSS/customerInfo.css">
+    <link rel="stylesheet" href="/E-Commerce/CSS/customerInfo.css">
 </head>
 <body>
 <div class="main-content">

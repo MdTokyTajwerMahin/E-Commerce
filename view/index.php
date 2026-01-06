@@ -9,7 +9,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="/Project/CSS/style.css">
+    <link rel="stylesheet" href="/E-Commerce/CSS/style.css">
 </head>
 <body>
     <div class="main-content">
@@ -25,9 +25,9 @@
 
     <hr>
     </div>
-<img src="/Project/Image/LOGINSIGNUP.jpg" alt="signup" >
+<img src="/E-Commerce/Image/LOGINSIGNUP.jpg" alt="signup" >
 
-<form action="/Project/controller/signupValidation.php" method="POST" onsubmit="return validation()">
+<form action="/E-Commerce/controller/signupValidation.php" method="POST" onsubmit="return validation()">
 
         <div class="container">
             <h1>Sign Up</h1>
@@ -194,6 +194,6 @@
         <hr>
         <p>Copyright &copy; All rights reserved by ALIDADA</p>
     </footer>
-    <script src="/Project/JS/signupValidation.js"></script>
+    <script src="/E-Commerce/JS/signupValidation.js"></script>
 </body>
 </html>

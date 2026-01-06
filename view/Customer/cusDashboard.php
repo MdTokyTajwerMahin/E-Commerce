@@ -5,7 +5,7 @@
 <html>
 <head>
     <title>Customer Dashboard</title>
-    <link rel="stylesheet" href="/Project/CSS/cusDashboard.css">
+    <link rel="stylesheet" href="/E-Commerce/CSS/cusDashboard.css">
 </head>
 <body>
     <header>

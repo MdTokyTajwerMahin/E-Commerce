@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Admin Dashboard</title>
-    <link rel="stylesheet" href="/Project/CSS/adDashboard.css">
+    <link rel="stylesheet" href="/E-Commerce/CSS/adDashboard.css">
 </head>
 <body>
     <div class="main-content">
@@ -25,7 +25,7 @@
         <div id="view">
             <?php foreach ($products as $row): ?>
                 <div class="product">
-                    <img src="/Project/Image/<?php echo($row['image_url']) ?>" alt="notfound"><br>
+                    <img src="/E-Commerce/Image/<?php echo($row['image_url']) ?>" alt="notfound"><br>
                     <span><?php echo($row['p_name']) ?></span><br>
                     <span>BDT <?php echo($row['price']) ?></span><br>
 

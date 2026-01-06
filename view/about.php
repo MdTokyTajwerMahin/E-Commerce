@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About Us</title>
-    <link rel="stylesheet" href="/Project/CSS/about.css">
+    <link rel="stylesheet" href="/E-Commerce/CSS/about.css">
 </head>
 <body>
 <header>
@@ -34,7 +34,7 @@
                Student ID: 22-48934-3 <br>
                <strong>American International University-Bangladesh (AIUB)</strong></p>
         </div>
-        <img src="/Project/Image/mahin.jpg" alt="Mahin">
+        <img src="/E-Commerce/Image/mahin.jpg" alt="Mahin">
     </div>
 
 
@@ -45,7 +45,7 @@
                Student ID: 22-48913-3 <br>
                <strong>American International University-Bangladesh (AIUB)</strong></p>
         </div>
-        <img src="/Project/Image/tuli.jpg" alt="Tuli">
+        <img src="/E-Commerce/Image/tuli.jpg" alt="Tuli">
     </div>
 
 
@@ -56,7 +56,7 @@
                Lecturer, CS<br>
                <strong>American International University-Bangladesh (AIUB)</strong></p>
         </div>
-        <img src="/Project/Image/supervisor.jpeg" alt="Supervisor">
+        <img src="/E-Commerce/Image/supervisor.jpeg" alt="Supervisor">
     </div>
 </div>
 
