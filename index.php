@@ -10,7 +10,7 @@
 <header>
     <h2>ALIDADA</h2>
     <nav>
-        <a href="view/index.php">Sign Up</a>
+        <a href="view/signup.php">Sign Up</a>
         <a href="view/Login.php">Login</a>
         <a href="view/contact.php">Contact</a>
         <a href="view/about.php">About</a>
