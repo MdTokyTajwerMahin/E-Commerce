@@ -1,5 +1,5 @@
 <?php
-    //session_start();
+    
 ?>
 
 <!DOCTYPE html>
@@ -30,33 +30,33 @@
     <div class="info-box">
         <div class="info-text">
             <h3>Developer</h3>
-            <p><strong>Azaz Mohammad Kaif</strong><br>
-               Student ID: 22-48795-3 <br>
-               <strong>American International University Bangladesh (AIUB)</strong></p>
+            <p><strong>MD. Toky Tajwer Mahin</strong><br>
+               Student ID: 22-48934-3 <br>
+               <strong>American International University-Bangladesh (AIUB)</strong></p>
         </div>
-        <img src="/Project/Image/kaif.jpg" alt="Azaz Mohammad Kaif">
+        <img src="/Project/Image/mahin.jpg" alt="Mahin">
     </div>
 
 
     <div class="info-box">
         <div class="info-text">
             <h3>Developer</h3>
-            <p><strong>Majedul Islam</strong><br>
-               Student ID: 22-48618-3 <br>
-               <strong>American International University Bangladesh (AIUB)</strong></p>
+            <p><strong>Sumaiya Amirun</strong><br>
+               Student ID: 22-48913-3 <br>
+               <strong>American International University-Bangladesh (AIUB)</strong></p>
         </div>
-        <img src="/Project/Image/anas.jpg" alt="Majedul Islam">
+        <img src="/Project/Image/tuli.jpg" alt="Tuli">
     </div>
 
 
     <div class="info-box">
         <div class="info-text">
             <h3>Supervisor</h3>
-            <p><strong>Wahidul Alam Riyad</strong><br>
+            <p><strong>MD. AL-AMIN</strong><br>
                Lecturer, CS<br>
-               <strong>American International University Bangladesh (AIUB)</strong></p>
+               <strong>American International University-Bangladesh (AIUB)</strong></p>
         </div>
-        <img src="/Project/Image/supervisor.jpg" alt="Supervisor">
+        <img src="/Project/Image/supervisor.jpeg" alt="Supervisor">
     </div>
 </div>
 
