@@ -53,10 +53,10 @@
         <div class="info-text">
             <h3>Supervisor</h3>
             <p><strong>MD. AL-AMIN</strong><br>
-               Lecturer, CS<br>
+               Assistant Professor, CS<br>
                <strong>American International University-Bangladesh (AIUB)</strong></p>
         </div>
-        <img src="/E-Commerce/Image/supervisor.jpeg" alt="Supervisor">
+        <img src="/E-Commerce/Image/supervisor.jpg" alt="Supervisor">
     </div>
 </div>
 
